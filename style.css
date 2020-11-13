@@ -50,7 +50,7 @@ li a:hover {
 .content {padding:20px;}
 
 #jenkins {
-  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776531768508547082/9k.png);
+  background-image: url('images/jenkins.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
@@ -70,8 +70,8 @@ li a:hover {
 
 }
 
-#grafana {
-  background-image: url(images/grafana.png);
+#grafana{
+  background-image: url('images/grafana.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
@@ -86,12 +86,13 @@ li a:hover {
   border-radius: 50px;
   padding: 5px;
   position: absolute;
-  top:450px;
+  top: 450px;
   right: 900px;
 }
 
+
 #confluence{
-  background-image: url(https://it.megocollector.com/wp-content/uploads/2014/03/confluence_logo.png);
+  background-image: url('images/confluence.jpeg');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;

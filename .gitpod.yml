@@ -3,3 +3,8 @@ image: gitpod/workspace-full
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - abusaidm.html-snippets@0.2.1:HrYIjYqOIABbxFB9g9kqXQ==
+    - auchenberg.vscode-browser-preview@0.6.7:UsqnxvUQdYtm8ZISiN056w==
