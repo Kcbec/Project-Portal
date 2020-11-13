@@ -1,0 +1,183 @@
+
+/* Style for the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header and possible logo */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+    overflow:
+hidden;
+  background-color: #333;
+}
+
+li {
+
+float: left;
+}
+
+li a {
+  display: block;
+
+color: white;
+  text-align: center;
+
+padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:
+#111;
+}
+
+
+/* Page Content */
+.content {padding:20px;}
+
+#jenkins {
+  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776531768508547082/9k.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 65% 20%;
+  background-size: 250px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top:450px;
+  right: 1300px;
+
+}
+
+#grafana {
+  background-image: url(images/grafana.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  background-size: 150px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top:450px;
+  right: 900px;
+}
+
+#confluence{
+  background-image: url(https://it.megocollector.com/wp-content/uploads/2014/03/confluence_logo.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  background-size: 150px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top: 450px;
+  right: 500px;
+}
+
+#nagios{
+  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776615382752296983/nagios-circle-logo.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  background-size: 150px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top: 900px;
+  right: 1300px;
+}
+
+#garcia{
+  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776614475251712080/basketball-stock.jpg);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 50% 10%;
+  background-size: 250px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top: 900px;
+  right: 900px;
+}
+
+#dice{
+  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776532718792081428/1019-STUDIOS-DND-PRODUCTIONS.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px;
+  background-repeat: no-repeat;
+  background-position: 50% 10%;
+  background-size: 250px;
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  padding: 5px;
+  position: absolute;
+  top: 900px;
+  right: 500px;
+}
+
+
+
+/* Footer */
+.footer {
+  padding: 20px;
+
+  text-align: center;
+  background: #ddd;
+  margin-top: 1200px;
+}
+   }
