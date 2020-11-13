@@ -50,12 +50,10 @@ li a:hover {
 .content {padding:20px;}
 
 #jenkins {
-  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776531768508547082/9k.png);
+  background-image: url('../images/jenkins.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
-  width: 981px;
-  height: 180px;
   background-repeat: no-repeat;
   background-position: 65% 20%;
   background-size: 250px;
@@ -70,13 +68,11 @@ li a:hover {
 
 }
 
-#grafana {
-  background-image: url(images/grafana.png);
+#grafana{
+  background-image: url('../images/grafana.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
-  width: 981px;
-  height: 180px;
   background-repeat: no-repeat;
   background-position: 50% 20%;
   background-size: 150px;
@@ -86,17 +82,15 @@ li a:hover {
   border-radius: 50px;
   padding: 5px;
   position: absolute;
-  top:450px;
+  top: 450px;
   right: 900px;
 }
 
 #confluence{
-  background-image: url(https://it.megocollector.com/wp-content/uploads/2014/03/confluence_logo.png);
+  background-image: url('../images/confluence.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
-  width: 981px;
-  height: 180px;
   background-repeat: no-repeat;
   background-position: 50% 20%;
   background-size: 150px;
@@ -111,12 +105,10 @@ li a:hover {
 }
 
 #nagios{
-  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776615382752296983/nagios-circle-logo.png);
+  background-image: url('../images/nagioslogo.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
-  width: 981px;
-  height: 180px;
   background-repeat: no-repeat;
   background-position: 50% 20%;
   background-size: 150px;
@@ -130,13 +122,11 @@ li a:hover {
   right: 1300px;
 }
 
-#garcia{
-  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776614475251712080/basketball-stock.jpg);
+#check-ball{
+  background-image: url('../images/basketball-stock.jpg');
   display: block;
   margin: 0 auto;
-  text-indent: -9999px;
-  width: 981px;
-  height: 180px;
+  text-indent: -9999px;;
   background-repeat: no-repeat;
   background-position: 50% 10%;
   background-size: 250px;
@@ -150,13 +140,11 @@ li a:hover {
   right: 900px;
 }
 
-#dice{
-  background-image: url(https://cdn.discordapp.com/attachments/736718702015152219/776532718792081428/1019-STUDIOS-DND-PRODUCTIONS.png);
+#jira{
+  background-image: url('../images/jira_logo.png');
   display: block;
   margin: 0 auto;
   text-indent: -9999px;
-  width: 981px;
-  height: 180px;
   background-repeat: no-repeat;
   background-position: 50% 10%;
   background-size: 250px;
@@ -180,4 +168,4 @@ li a:hover {
   background: #ddd;
   margin-top: 1200px;
 }
-   }
+}
